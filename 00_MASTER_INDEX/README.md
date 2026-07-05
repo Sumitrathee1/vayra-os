@@ -1,19 +1,44 @@
-# VAYRA Master Index
+# VAYRA OS
 
-This is the central navigation system for VAYRA OS.
+Welcome to VAYRA OS.
 
-Every document, template, SOP, workflow, AI skill, and checklist is indexed here.
+This repository is the central operating system of VAYRA Atelier.
 
-This folder acts as the "brain" of VAYRA OS.
+Purpose:
 
----
+- Standardize every process.
+- Maintain company knowledge.
+- Support AI agents.
+- Reduce operational errors.
+- Improve design quality.
+- Scale the business.
 
-Status
+Every department must follow the standards documented inside this repository.
 
-Version 1.0
+Documentation hierarchy:
 
 Company
+↓
 
-VAYRA Atelier
+Departments
+↓
 
-Design by Emotion.
+Projects
+↓
+
+SOPs
+↓
+
+Templates
+↓
+
+Checklists
+↓
+
+AI Prompts
+↓
+
+Knowledge Base
+
+Version:
+1.0
