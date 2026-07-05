@@ -1,30 +1,15 @@
-# VAYRA OS – Company Foundation
+# Company Foundation
 
-## Purpose
+This module defines the identity, culture, governance, and decision-making principles of VAYRA Atelier.
 
-Defines the identity, culture, governance, policies, leadership, and operational framework of VAYRA Atelier.
+It serves as the reference point for every employee, AI agent, and department.
 
-## Contents
-
-- Company Profile
+Contents:
 - Vision
 - Mission
 - Core Values
-- Company Culture
-- Organization Chart
-- Department Structure
-- Roles & Responsibilities
-- KPI Framework
-- Decision Matrix
+- Brand Philosophy
+- Organization Structure
+- Decision Framework
 - Company Policies
 - Employee Handbook
-- Quality Policy
-- AI Usage Policy
-
-## Owner
-
-CEO
-
-## Version
-
-1.0
